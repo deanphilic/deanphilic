@@ -1,4 +1,5 @@
 
+ </head>
 </div>
 <div align="center">
 <div style="position: relative; text-align: center;">
@@ -11,5 +12,4 @@
     <p>he . him / polys . a<br>single . transfem</p>
   </div>
 </div>
-
-
+<img src="https://media.tenor.com/t9BKTaoUCe8AAAAj/half-life-hl.gif" width="30" height="30">uh i like hl, tf2,<br>pvz and postal.
